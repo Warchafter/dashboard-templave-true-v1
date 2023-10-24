@@ -1,0 +1,13 @@
+.login-form-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-content: center;
+    align-items: center;
+    width: fit-content;
+    border-radius: 10px;
+    border-color: rgb(255, 0, 0);
+    border-width: 10px;
+    background-color: rgb(92, 92, 92);
+    color: azure;
+}
